@@ -1,13 +1,15 @@
 ﻿using System;
 using Math;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+using Xunit;
 
 namespace MathTests
 {
-    [TestClass]
+
     public class MathTest
     {
-        [TestMethod]
+        [Fact]
         public void TestAdd()
         {
             //arrange statements 
@@ -19,7 +21,7 @@ namespace MathTests
 
 
             //assert 
-            Assert.AreEqual(5, sum);
+            Assert.Equal(5, sum);
         }
     }
 }

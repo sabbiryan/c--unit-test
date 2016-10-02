@@ -6,3 +6,15 @@ c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\De
 c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\Math.pdb
 c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\obj\Debug\MathTests.dll
 c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\obj\Debug\MathTests.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.abstractions.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.runner.utility.desktop.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.assert.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.core.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.execution.desktop.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.assert.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.assert.xml
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.core.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.core.xml
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.execution.desktop.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\xunit.execution.desktop.xml

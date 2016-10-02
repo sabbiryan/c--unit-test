@@ -1,0 +1,8 @@
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\obj\Debug\MathTests.csprojResolveAssemblyReference.cache
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\MathTests.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\MathTests.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\Math.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\bin\Debug\Math.pdb
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\obj\Debug\MathTests.dll
+c:\users\sabbir\documents\visual studio 2015\Projects\MathTests\MathTests\obj\Debug\MathTests.pdb
